@@ -1,0 +1,82 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 29 Dec 2022 15:17:11 at https://www.feel-digital.co.uk/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.feel-digital.co.uk/ -O1 "C:\Users\Programmer\Desktop\WebSite" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:17:32	Error: 	"Forbidden" (403) at link https://www.feel-digital.co.uk/o,baseURI (from https://www.feel-digital.co.uk/)
+15:17:32	Error: 	"Not Found" (404) at link https://www.feel-digital.co.uk/GET (from https://www.feel-digital.co.uk/)
+15:17:32	Error: 	"Not Found" (404) at link https://www.feel-digital.co.uk/Edge/ (from https://www.feel-digital.co.uk/)
+15:17:32	Error: 	"Forbidden" (403) at link https://www.feel-digital.co.uk/xmlrpc.php?rsd (from https://www.feel-digital.co.uk/)
+15:17:32	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.feel-digital.co.uk/)
+15:18:17	Warning: 	Moved Permanently for https://www.feel-digital.co.uk/organic-search/
+15:18:17	Warning: 	File has moved from https://www.feel-digital.co.uk/organic-search/ to https://www.feel-digital.co.uk/organic-search
+15:18:17	Warning: 	Moved Permanently for https://www.feel-digital.co.uk/paid-search/
+15:18:17	Warning: 	File has moved from https://www.feel-digital.co.uk/paid-search/ to https://www.feel-digital.co.uk/paid-search
+15:18:17	Warning: 	Moved Permanently for https://www.feel-digital.co.uk/social-media/
+15:18:17	Warning: 	File has moved from https://www.feel-digital.co.uk/social-media/ to https://www.feel-digital.co.uk/social-media
+15:18:17	Warning: 	Moved Permanently for https://www.feel-digital.co.uk/content-marketing/
+15:18:17	Warning: 	File has moved from https://www.feel-digital.co.uk/content-marketing/ to https://www.feel-digital.co.uk/content-marketing
+15:18:17	Warning: 	Moved Permanently for https://www.feel-digital.co.uk/design-development/
+15:18:17	Warning: 	File has moved from https://www.feel-digital.co.uk/design-development/ to https://www.feel-digital.co.uk/design-development
+15:18:17	Warning: 	Moved Permanently for https://www.feel-digital.co.uk/cro/
+15:18:17	Warning: 	File has moved from https://www.feel-digital.co.uk/cro/ to https://www.feel-digital.co.uk/cro-conversion-rate-optimisation
+15:18:32	Error: 	"Forbidden" (403) at link https://www.feel-digital.co.uk/"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==" (from https://www.feel-digital.co.uk/)
+15:18:48	Error: 	"Not Found" (404) at link https://www.feel-digital.co.uk/POST (from https://www.feel-digital.co.uk/)
+15:18:55	Error: 	"Forbidden" (403) at link https://www.feel-digital.co.uk/success-story/o,baseURI (from https://www.feel-digital.co.uk/success-story/edulab-case-study)
+15:18:55	Error: 	"Not Found" (404) at link https://www.feel-digital.co.uk/success-story/GET (from https://www.feel-digital.co.uk/success-story/edulab-case-study)
+15:18:55	Error: 	"Not Found" (404) at link https://www.feel-digital.co.uk/success-story/Edge/ (from https://www.feel-digital.co.uk/success-story/edulab-case-study)
+15:18:55	Warning: 	Moved Permanently for https://www.feel-digital.co.uk/?p=1252
+15:18:55	Warning: 	File has moved from https://www.feel-digital.co.uk/?p=1252 to https://www.feel-digital.co.uk/success-story/edulab-case-study
+15:18:55	Error: 	"Not Found" (404) at link https://www.feel-digital.co.uk/success-story/POST (from https://www.feel-digital.co.uk/success-story/edulab-case-study)
+15:18:55	Warning: 	Moved Permanently for https://www.feel-digital.co.uk/?p=373
+15:18:55	Warning: 	File has moved from https://www.feel-digital.co.uk/?p=373 to https://www.feel-digital.co.uk/success-stories
+15:18:56	Warning: 	Moved Permanently for https://www.feel-digital.co.uk/?p=160
+15:18:56	Warning: 	File has moved from https://www.feel-digital.co.uk/?p=160 to https://www.feel-digital.co.uk/contact
+15:18:56	Warning: 	Moved Permanently for https://www.feel-digital.co.uk/?p=163
+15:18:56	Warning: 	File has moved from https://www.feel-digital.co.uk/?p=163 to https://www.feel-digital.co.uk/what-we-do
+15:18:57	Warning: 	Moved Permanently for https://www.feel-digital.co.uk/?p=166
+15:18:57	Warning: 	File has moved from https://www.feel-digital.co.uk/?p=166 to https://www.feel-digital.co.uk/organic-search
+15:18:57	Warning: 	Moved Permanently for https://www.feel-digital.co.uk/?p=170
+15:18:57	Warning: 	File has moved from https://www.feel-digital.co.uk/?p=170 to https://www.feel-digital.co.uk/paid-search
+15:18:59	Warning: 	Moved Permanently for https://www.feel-digital.co.uk/?p=172
+15:18:59	Warning: 	File has moved from https://www.feel-digital.co.uk/?p=172 to https://www.feel-digital.co.uk/social-media
+15:18:59	Warning: 	Moved Permanently for https://www.feel-digital.co.uk/b2b-linkedin-marketing/
+15:18:59	Warning: 	File has moved from https://www.feel-digital.co.uk/b2b-linkedin-marketing/ to https://www.feel-digital.co.uk/b2b-linkedin-marketing
+15:18:59	Warning: 	Moved Permanently for https://www.feel-digital.co.uk/?p=174
+15:18:59	Warning: 	File has moved from https://www.feel-digital.co.uk/?p=174 to https://www.feel-digital.co.uk/content-marketing
+15:18:59	Warning: 	Moved Permanently for https://www.feel-digital.co.uk/?p=182
+15:18:59	Warning: 	File has moved from https://www.feel-digital.co.uk/?p=182 to https://www.feel-digital.co.uk/design-development
+15:18:59	Warning: 	Moved Permanently for https://www.feel-digital.co.uk/?p=184
+15:18:59	Warning: 	File has moved from https://www.feel-digital.co.uk/?p=184 to https://www.feel-digital.co.uk/cro-conversion-rate-optimisation
+15:18:59	Warning: 	Moved Permanently for https://www.feel-digital.co.uk/?p=993
+15:18:59	Warning: 	File has moved from https://www.feel-digital.co.uk/?p=993 to https://www.feel-digital.co.uk/success-story/isg-fume-case-study-1-million-turnover
+15:18:59	Warning: 	Moved Permanently for https://www.feel-digital.co.uk/?p=1282
+15:18:59	Warning: 	File has moved from https://www.feel-digital.co.uk/?p=1282 to https://www.feel-digital.co.uk/success-story/delivering-results-with-rapid-digital-growth
+15:18:59	Warning: 	Moved Permanently for https://www.feel-digital.co.uk/?p=988
+15:18:59	Warning: 	File has moved from https://www.feel-digital.co.uk/?p=988 to https://www.feel-digital.co.uk/success-story/hill-brothers-case-study-driving-growth-quickly-and-effectively
+15:18:59	Warning: 	Moved Permanently for https://www.feel-digital.co.uk/?p=256
+15:18:59	Warning: 	File has moved from https://www.feel-digital.co.uk/?p=256 to https://www.feel-digital.co.uk/understanding-and-adapting-to-consumer-shopping-behaviour-during-covid-19
+15:18:59	Warning: 	Moved Permanently for https://www.feel-digital.co.uk/?p=970
+15:18:59	Warning: 	File has moved from https://www.feel-digital.co.uk/?p=970 to https://www.feel-digital.co.uk/finding-opportunity-throughout-the-covid-19-crisis
+15:18:59	Warning: 	Moved Permanently for https://www.feel-digital.co.uk/?p=259
+15:18:59	Warning: 	File has moved from https://www.feel-digital.co.uk/?p=259 to https://www.feel-digital.co.uk/long-tail-phrases-the-secret-to-getting-more-rankings
+15:18:59	Warning: 	Moved Permanently for https://www.feel-digital.co.uk/?p=959
+15:18:59	Warning: 	File has moved from https://www.feel-digital.co.uk/?p=959 to https://www.feel-digital.co.uk/celebrating-two-years-of-feel-digital
+15:18:59	Warning: 	Moved Permanently for https://www.feel-digital.co.uk/?p=977
+15:18:59	Warning: 	File has moved from https://www.feel-digital.co.uk/?p=977 to https://www.feel-digital.co.uk/6-tips-to-optimise-and-secure-your-wordpress-website
+15:18:59	Warning: 	Moved Permanently for https://www.feel-digital.co.uk/?p=981
+15:18:59	Warning: 	File has moved from https://www.feel-digital.co.uk/?p=981 to https://www.feel-digital.co.uk/first-12-months-in-business-what-have-i-learnt
+15:18:59	Warning: 	Moved Permanently for https://www.feel-digital.co.uk/?p=85
+15:18:59	Warning: 	File has moved from https://www.feel-digital.co.uk/?p=85 to https://www.feel-digital.co.uk/so-what-do-we-do-and-why-should-you-care
+15:18:59	Warning: 	Moved Permanently for https://www.feel-digital.co.uk/?p=91
+15:18:59	Warning: 	File has moved from https://www.feel-digital.co.uk/?p=91 to https://www.feel-digital.co.uk/b2b-linkedin-marketing
+15:18:59	Warning: 	Moved Permanently for https://www.feel-digital.co.uk/?p=1305
+15:18:59	Warning: 	File has moved from https://www.feel-digital.co.uk/?p=1305 to https://www.feel-digital.co.uk/privacy-policy
+15:18:59	Error: 	"Not Found" (404) at link https://www.feel-digital.co.uk/wp-content/themes/feeldigital/assets/css/components/grayscale.svg (from https://cdn-bhefn.nitrocdn.com/JvwMKMeIbFASwXbJrfsgCJYzeDMigYsq/assets/static/optimized/rev-e1b3a1c/combinedCss/nitro-min-noimport-8137555aab2a59a9550b5b46ef677291-stylesheet.css)
+15:18:59	Error: 	"Not Found" (404) at link https://www.feel-digital.co.uk/insights/page/POST (from https://www.feel-digital.co.uk/insights/page/2)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 48 seconds : 304 links scanned, 261 files written (13882487 bytes overall) [8966491 bytes received at 83023 bytes/sec], 7639660 bytes transferred using HTTP compression in 181 files, ratio 21%, 13.6 requests per connection
+(13 errors, 58 warnings, 0 messages)
